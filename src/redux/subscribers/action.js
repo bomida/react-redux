@@ -1,5 +1,3 @@
-// action
-// action_types
 export const ADD_SUBSCRIBERS = "ADD_SUBSCRIBERS";
 export const REMOVE_SUBSCRIBERS = "REMOVE_SUBSCRIBERS";
 

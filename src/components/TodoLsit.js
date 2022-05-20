@@ -67,7 +67,7 @@ function ToDoList({ toDos, addToDo }) {
 
 const mapStateToProps = ({ todolist }) => {
   return {
-    toDos: todolist
+    toDos: todolist // todolist는 reducer
   }
 }
 
